@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46170613422",
+    "project_id": "zoho-people-92e22",
+    "storage_bucket": "zoho-people-92e22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46170613422:android:8cec5d91277a0ee1f16f3f",
+        "android_client_info": {
+          "package_name": "com.example.creater"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUfNAQ0i7nb5Y-dfVQcO4rKDsgkXnQ1mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46170613422:android:549841113b1020b9f16f3f",
+        "android_client_info": {
+          "package_name": "com.zoho_people.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUfNAQ0i7nb5Y-dfVQcO4rKDsgkXnQ1mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
